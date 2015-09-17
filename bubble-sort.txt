@@ -1,0 +1,4 @@
+Compare a primeira carta com a segunda. Se a segunda for menor, troque de lugar. Se não, mantem.
+Faça o mesmo com as outras 3 cartas.
+Compare a segunda carta com as que estão a sua direita. Se for menor, troque de lugar. Se não, mantem.
+Faça o mesmo com todas as cartas restantes.
