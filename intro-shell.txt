@@ -1,0 +1,13 @@
+Abra o terminal e imprima qual diretório você está
+$ pwd
+Navegue até o Desktop e imprima todos os arquivos e pastas que estão nele
+$ cd Desktop 
+$ ls
+Crie uma pasta chamada pratica-shell em outra pasta que não seja o Desktop
+$ mkdir pratica-shell
+Entre na pasta criada
+$ cd pratica-shell
+Crie um arquivo chamado intro-shell.txt nessa pasta utilizando um editor de texto
+Nesse arquivo, liste e explique cada passo e comando utilizado nessa tarefa
+Crie um arquivo alunos.txt nessa pasta utilizando um editor de texto
+Coloque o nome de cada aluno do grupo no arquivo e salve-o
