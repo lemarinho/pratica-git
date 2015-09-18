@@ -1,3 +1,10 @@
+﻿VERSÃO DO PROFESSOR
 ﻿Para a carta A -> D:
 Compare a carta com a da frente até E
 Se a carta < que a da frente, mantém. Caso contrário, troca
+
+VERSÃO SIMPLIFICADA
+Da primeira a quarta carta, nesta ordem:
+Compare-a com cada carta à sua direita, trocando quando necessário para manter a menor à esquerda.
+Vença.
+
