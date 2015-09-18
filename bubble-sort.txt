@@ -1,0 +1,3 @@
+﻿Para a carta A -> D:
+Compare a carta com a da frente até E
+Se a carta < que a da frente, mantém. Caso contrário, troca
